@@ -1,0 +1,191 @@
+
+
+body{
+    background-color: #EFF3FD;
+    margin: 0%;
+    padding-bottom: 2%;
+    padding: auto;
+}
+
+
+.titulo{
+    font-family: "Poppins", sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.assinatura{
+    font-size: 30px;
+}
+
+.container{
+    background-color: white;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    width: 55%;
+    margin-left: 22%;
+    border-radius: 20px;
+}
+
+.coletaassinatura{
+    background-color: white;
+    padding: 40px 0px 0px 43px;
+}
+.contratoform {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: #FFFFFF;
+    border-radius: 20px;
+    background: rgb(36,34,195);
+background: linear-gradient(0deg, rgba(36,34,195,0.08167016806722693) 0%, rgba(45,253,237,0.09007352941176472) 100%);
+}
+
+h1 {
+    text-align: center;
+}
+.contratoform{
+    background-color: #6A2727 rgba(10,23,55,0.5);
+    width: auto;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+.itens{
+    margin-right: 30px;
+}
+
+.img{
+    width: 5%;
+    background-color: #124b6120;
+}
+
+.instituição{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(1, 2, 20);
+}
+
+.abas{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: rgb(1, 2, 20);
+    padding: 22px 18px 22px 18px;
+}
+
+.abas:hover{
+    background-color: white;
+    margin: 0%;
+    padding: 22px 18px 22px 18px;
+    font-size: 20px;
+    margin-left: 18px;
+}
+
+.selo{
+    display: flex;
+    font-family: "Afacad Flux", sans-serif;
+    background-color: #33FF3A33;
+    margin-bottom: 20px;
+}
+
+
+input, select, button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border:none;
+}
+
+select{
+    background-color: white;
+    border: none;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #124b61;
+    color: aliceblue;
+}
+
+.button{
+    color: #EFF3FD;
+}
+
+canvas{
+    border-radius: 5%;
+    align-content: center;
+
+}
+
+label, option{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+select{
+    border-radius: 20px;
+    margin-left: 80px;
+    width: 80%;
+}
+
+input{
+    border-radius: 20px;
+    margin-left: 80px;
+    width: 76%;
+}
+
+.endereço{
+    width: 90%;
+    margin-left: 0%;
+    margin-top: 10px;
+}
+
+.limpar{
+    background-color: #EFF3FD;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 22%;
+    margin-bottom: 16px;
+    font-size: 16px;
+}
+
+.capturar{
+    background-color: #FFE10029;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 22%;
+    margin-bottom: 16px;
+    font-size: 18px;
+}
+
+.gerar{
+    background-color: #33FF3A33;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 22%;
+    margin-bottom: 16px;
+    font-size: 20px;
+}
