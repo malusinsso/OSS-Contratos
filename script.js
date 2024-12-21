@@ -12,7 +12,7 @@ const usuarios = [
     {
         nome: "ERIKA PRISCILLA FEITOSA",
         funcao: "ANALISTA ADMINISTRATIVO",
-        salario: "R$3.000,00",
+        salario: "R$ 3.700,00",
         local: "ADMINISTRATIVO",
         estadoCivil: "SOLTEIRA",
         cargaHoraria: "40 (quarenta) horas semanais", //40horas
@@ -21,7 +21,7 @@ const usuarios = [
     {
         nome: "ANA PAULA DA SILVA",
         funcao: "AUXILIAR ADMINISTRATIVO",
-        salario: "R$2.100,00",
+        salario: "R$ 1.800,00",
         local: "ADMINISTRATIVO",
         estadoCivil: "DIVORCIADA",
         cargaHoraria: "40 (quarenta) horas semanais",//40horas
@@ -30,7 +30,7 @@ const usuarios = [
     {
         nome: "JULIANA DA SILVA MOURA",
         funcao: "AUXILIAR ADMINISTRATIVO",
-        salario: "R$1.800,00",
+        salario: "R$ 2.300,00",
         local: "ADMINISTRATIVO",
         estadoCivil: "DIVORCIADA",
         cargaHoraria: "36 (trinta e seis) horas semanais",//36horas
@@ -39,7 +39,7 @@ const usuarios = [
     {
         nome: "SHEILA CRISTINA DE PAULA NASCIMENTO",
         funcao: "AUXILIAR ADMINISTRATIVO",
-        salario: "R$1.800,00",
+        salario: "R$ 1.800,00",
         local: "ADMINISTRATIVO",
         estadoCivil: "CASADA",
         cargaHoraria: "36 (trinta e seis) horas semanais"//36horas
@@ -161,7 +161,7 @@ const usuarios = [
     {
         nome: "CAREM MATOS COSTA",
         funcao: "ENFERMEIRA UTI NEO",
-        salario: "R$3.886,36",
+        salario: "R$ 4.200,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "CASADA",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -169,7 +169,7 @@ const usuarios = [
     {
         nome: "ELIANE DAS VIRGENS SPINA",
         funcao: "ENFERMEIRA UTI NEO",
-        salario: "R$3.886,36",
+        salario: "R$ 4.200,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "CASADA",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -177,7 +177,7 @@ const usuarios = [
     {
         nome: "MARIA DE FATIMA OLIVEIRA PEREIRA CORREA DA SILVA",
         funcao: "ENFERMEIRA UTI NEO",
-        salario: "R$3.886,36",
+        salario: "R$ 4.200,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "CASADA",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -185,7 +185,7 @@ const usuarios = [
     {
         nome: "FERNANDA CORDEIRO ALBERTO",
         funcao: "ENFERMEIRA UTI NEO",
-        salario: "R$3.886,36",
+        salario: "R$ 4.200,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "CASADA",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -193,7 +193,7 @@ const usuarios = [
     {
         nome: "ADRIANA GOMES STRAZZA",
         funcao: "ENFERMEIRA",
-        salario: "R$3.886,36",
+        salario: "R$ 5.000,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "CASADA",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -201,7 +201,7 @@ const usuarios = [
     {
         nome: "JAQUELINE MOREIRA DE MORAIS",
         funcao: "ENFERMEIRA",
-        salario: "R$3.886,36",
+        salario: "R$ 5.000,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "CASADA",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -209,7 +209,7 @@ const usuarios = [
     {
         nome: "GERSON MIGUEL SANTOS CORREIA",
         funcao: "ENFERMEIRO",
-        salario: "R$3.886,36",
+        salario: "R$ 5.000,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "SOLTEIRO",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -217,7 +217,7 @@ const usuarios = [
     {
         nome: "MARCIA DE SOUZA OLIVEIRA",
         funcao: "ENFERMEIRA",
-        salario: "R$3.886,36",
+        salario: "R$ 5.000,00",
         local: "UNIDADE DE TERAPIA INTENSIVA - NEONATOLOGIA (UTI NEO)",
         estadoCivil: "DIVORCIADA",
         cargaHoraria: "20 horas - de segunda a sexta"
@@ -225,7 +225,7 @@ const usuarios = [
     {
         nome: "MARJORIE FERNANDES BARBOZA",
         funcao: "TÉCNICO DE ENFERMAGEM",
-        salario: "R$2.720,45",
+        salario: "R$ 2.720,45",
         local: "CENTRO OBSTÉTRICO",
         estadoCivil: "SOLTEIRA",
         cargaHoraria: "12 X 36 (07h00 às 19h00 ou 19h00 às 07h00)"
@@ -570,7 +570,7 @@ const usuarios = [
     {
         nome: "NATHALIA COSTA DE PAULA",
         estadoCivil: "SOLTEIRA",
-        salario: "R$ 5.100,00",
+        salario: "R$ 6.000,00",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
         funcao: "FONOAUDIOLOGIA",
         cargaHoraria: "segunda a sábado (07h00 às 13h00 ou das 13h00 às 19h00)"
@@ -578,7 +578,7 @@ const usuarios = [
     {
         nome: "GABRIELLA DIAS BATISTA",
         estadoCivil: "UNIÃO ESTÁVEL",
-        salario: "R$ 2.500,00",
+        salario: "R$ 6.000,00",
         funcao: "FONOAUDIOLOGIA",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
         cargaHoraria: "segunda a sábado (07h00 às 13h00 ou das 13h00 às 19h00)"
@@ -588,7 +588,7 @@ const usuarios = [
         nome: "ALESSA CASTRO RIBEIRO",
         estadoCivil: "SOLTEIRA",
         salario: "R$ 6.800,00",
-        funcao: "FISOTERAPEUTA",
+        funcao: "FISIOTERAPEUTA",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
         cargaHoraria: "30 (trinta) horas semanais",//30horas
     },
@@ -598,7 +598,7 @@ const usuarios = [
         estadoCivil: "CASADA",
         salario: "R$ 3.800,00",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
-        funcao: "FISOTERAPEUTA",
+        funcao: "FISIOTERAPEUTA",
         cargaHoraria: "qualquer periodo entre as 07h00 às 01h00",// qualquer periodo entre as 07:00 às 01:00 )
     },
     {
@@ -606,14 +606,14 @@ const usuarios = [
         estadoCivil: "SOLTEIRA",
         salario: "R$ 3.800,00",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
-        funcao: "FISOTERAPEUTA",
+        funcao: "FISIOTERAPEUTA",
         cargaHoraria: "qualquer periodo entre as 07h00 às 01h00",// qualquer periodo entre as 07:00 às 01:00 )
     },
     {
         nome: "LUANA RODRIGUES DE SOUZA TINO",
         estadoCivil: "CASADA",
         salario: "R$ 3.800,00",
-        funcao: "FISOTERAPEUTA",
+        funcao: "FISIOTERAPEUTA",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
         cargaHoraria: "qualquer periodo entre as 07h00 às 01h00",// qualquer periodo entre as 07:00 às 01:00 )
     },
@@ -622,7 +622,7 @@ const usuarios = [
         estadoCivil: "SOLTEIRA",
         salario: "R$ 3.800,00",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
-        funcao: "FISOTERAPEUTA",
+        funcao: "FISIOTERAPEUTA",
         cargaHoraria: "qualquer periodo entre as 07h00 às 01h00",// qualquer periodo entre as 07:00 às 01:00 )
     },
     {
@@ -630,7 +630,7 @@ const usuarios = [
         estadoCivil: "SOLTEIRA",
         salario: "R$ 3.800,00",
         local: "Unidade de Terapia Intensiva Neonatal (UTI NEO)",
-        funcao: "FISOTERAPEUTA",
+        funcao: "FISIOTERAPEUTA",
         cargaHoraria: "qualquer periodo entre as 07h00 às 01h00", // qualquer periodo entre as 07:00 às 01:00 )
     },
     // SERVIÇO SOCIAL
